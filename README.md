@@ -1,8 +1,6 @@
 
 ## Oii me chamo Gustavo Basi 👋
-Atualmente cursando ADS na SPTECH
-
-- 📫 Meu email: gustavobasi@hotmail.com
+### Atualmente cursando ADS na SPTECH
 
 ## Amo fazer programação e espero sempre alcançar mais e mais pessoas através de meus códigos </>
 <div align="center">
@@ -29,7 +27,3 @@ Atualmente cursando ADS na SPTECH
   <a href="https://www.linkedin.com/in/gustavo-basi-3a7a38298/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:gustavobasi@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div>
-
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoBasi&show_icons=true&theme=transparent)
-[![Gustavo Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBasi&layout=compact)](https://github.com/GustavoBasi/github-readme-stats)
-
